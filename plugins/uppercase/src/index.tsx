@@ -11,7 +11,6 @@ const unpatchText = before("render", RN.Text, ([x]) => {
     x.style = newStyle;
 })
 
-
 export function onUnload() {
     unpatchText();
 }
