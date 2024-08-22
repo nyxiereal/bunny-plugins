@@ -1,0 +1,14 @@
+{
+    "name": "Uppercase",
+    "description": "Makes everything uppercase.",
+    "authors": [
+        {
+            "name": "Nyxie",
+            "id": "1242567443742986373"
+        }
+    ],
+    "main": "src/index.tsx",
+    "vendetta": {
+        "icon": "ic_add_text"
+    }
+}
